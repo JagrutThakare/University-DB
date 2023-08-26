@@ -4,7 +4,7 @@
 <img src="images/schema.png" width="">
 
 # The Database has following tables : 
-<img src="images/classroom.png" width="100"> <img src="images/department.png" width="100">
+<img src="images/classroom.png" width="1000"> <img src="images/department.png" width="1000">
 <img src="images/instructor.png" width="">
 <img src="images/course.png" width="">
 <img src="images/student.png" width="">
