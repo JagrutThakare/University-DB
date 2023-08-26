@@ -13,3 +13,5 @@
 <img src="images/advisor.png" width="">
 <img src="images/prereq.png" width="">
 <img src="images/time_slot.png" width="">
+
+# You can run SQL commands in **University.sql** file to see the database. 
