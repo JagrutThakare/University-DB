@@ -7,9 +7,8 @@
 <img src="images/classroom.png" width="500"> <img src="images/department.png" width="500">
 <img src="images/instructor.png" width="">
 <img src="images/course.png" width="">
-<img src="images/student.png" width="">
+<img src="images/student.png" width="500"> <img src="images/takes.png" width="500">
 <img src="images/section.png" width="">
-<img src="images/takes.png" width="">
 <img src="images/teaches.png" width="">
 <img src="images/advisor.png" width="">
 <img src="images/prereq.png" width="">
