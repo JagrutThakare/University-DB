@@ -1,8 +1,10 @@
 # University-DB
 
+##Schema : 
 <img src="images/schema.png" width="">
-<img src="images/classroom.png" width="">
-<img src="images/department.png" width="">
+
+#The Database has following tables : 
+<img src="images/classroom.png" width="10"> <img src="images/department.png" width="10">
 <img src="images/instructor.png" width="">
 <img src="images/course.png" width="">
 <img src="images/student.png" width="">
