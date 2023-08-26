@@ -14,4 +14,4 @@
 <img src="images/prereq.png" width="">
 <img src="images/time_slot.png" width="">
 
-# You can run SQL commands in <ul>University.sql<ul> file to see the database. 
+# You can run SQL commands in <u>University.sql</u> file to see the database. 
