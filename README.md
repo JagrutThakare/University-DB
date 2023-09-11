@@ -41,7 +41,7 @@ Before you can use the University Database, ensure you have the following softwa
    git clone https://github.com/JagrutThakare/University-DB
 
    
-## Schema : 
+## Schema
 <img src="images/schema.png" width="">
 
 # The Database has following tables : 
