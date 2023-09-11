@@ -15,6 +15,20 @@
 
 The University Database is a comprehensive system designed to manage and organize various aspects of our university's data. This README provides an overview of the database, its features, and how to get started with it.
 
+| Table       | Number of Records |
+|-------------|-------------------|
+| Department  | 20                |
+| Instructor  | 50                |
+| Student     | 2,000             |
+| Course      | 200               |
+| Prerequisite| 100               |
+| Section     | 100               |
+| Time Slot   | 20                |
+| Teaches     | 100               |
+| Takes       | 30,000            |
+| Advisor     | 2,000             |
+
+
 ## Features
 
 - Student information management
