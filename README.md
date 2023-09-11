@@ -41,4 +41,4 @@ Before you can use the University Database, ensure you have the following softwa
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/university-database.git
+   git clone https://github.com/JagrutThakare/University-DB
