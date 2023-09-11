@@ -9,6 +9,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Schema](#schema)
+- [Sample](#sample)
 
 ## Introduction
 
@@ -45,7 +46,7 @@ Before you can use the University Database, ensure you have the following softwa
 ## Schema
 <img src="images/schema.png" width="">
 
-# The Database has following tables : 
+## Sample 
 <img src="images/classroom.png" width="500"> <img src="images/department.png" width="500">
 <img src="images/instructor.png" width="">
 <img src="images/course.png" width="">
@@ -56,4 +57,4 @@ Before you can use the University Database, ensure you have the following softwa
 <img src="images/prereq.png" width="">
 <img src="images/time_slot.png" width="">
 
-# You can run SQL commands in University.sql file to see the database. Just type "source path/University.sql" in mysql workbench or cmd and your DB will ready.
+## You can run SQL commands in University.sql file to see the database. Just type "source path/University.sql" in mysql workbench or cmd and your DB will ready.
