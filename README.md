@@ -8,7 +8,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - -[Schema](#schema)
+- [Schema](#schema)
 
 ## Introduction
 
