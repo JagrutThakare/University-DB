@@ -8,7 +8,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
--[Schema](#schema)
+  - -[Schema](#schema)
+
 ## Introduction
 
 The University Database is a comprehensive system designed to manage and organize various aspects of our university's data. This README provides an overview of the database, its features, and how to get started with it.
