@@ -8,9 +8,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -42,3 +39,20 @@ Before you can use the University Database, ensure you have the following softwa
 
    ```bash
    git clone https://github.com/JagrutThakare/University-DB
+
+   
+## Schema : 
+<img src="images/schema.png" width="">
+
+# The Database has following tables : 
+<img src="images/classroom.png" width="500"> <img src="images/department.png" width="500">
+<img src="images/instructor.png" width="">
+<img src="images/course.png" width="">
+<img src="images/student.png" width="500"> <img src="images/takes.png" width="500">
+<img src="images/section.png" width="">
+<img src="images/teaches.png" width="">
+<img src="images/advisor.png" width="">
+<img src="images/prereq.png" width="">
+<img src="images/time_slot.png" width="">
+
+# You can run SQL commands in University.sql file to see the database. Just type "source path/University.sql" in mysql workbench or cmd and your DB will ready.
