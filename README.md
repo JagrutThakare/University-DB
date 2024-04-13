@@ -1,4 +1,6 @@
-<div align="center">
+<div style="text-align: center;">
+  
+<div style="display: inline-block; text-align: left;">
   
 # University Database
 
@@ -75,4 +77,5 @@ Before you can use the University Database, ensure you have the following softwa
 
 ## You can run SQL commands in University.sql file to see the database. Just type "source path/University.sql" in mysql workbench or cmd and your DB will ready.
 
+</div>
 </div>
