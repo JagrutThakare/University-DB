@@ -1,8 +1,5 @@
-<center>
-  
-  # University Database
-  
-</center>
+ 
+<h1 align="center"> University Database </h1>
 
 ## Table of Contents
 
