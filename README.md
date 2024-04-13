@@ -1,6 +1,7 @@
 <center>
   
   # University Database
+  
 </center>
 
 ## Table of Contents
