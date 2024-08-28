@@ -15,6 +15,8 @@
 
 The University Database is a comprehensive system designed to manage and organize various aspects of our university's data. This README provides an overview of the database, its features, and how to get started with it.
 
+University.sql file don't have as many records as mentioned below to have below mentioned records in database run the largeRelationInsertFile.sql separatly from University.sql;
+
 | Table       | Number of Records |
 |-------------|-------------------|
 | Department  | 20                |
