@@ -45,9 +45,7 @@ The University Database is a comprehensive system designed to manage and organiz
 
 Before you can use the University Database, ensure you have the following software installed:
 
-- [Database Management System (e.g., MySQL, PostgreSQL)](database_link)
-- [Python 3](https://www.python.org/downloads/)
-- [Git](https://git-scm.com/downloads)
+- Database Management System (e.g., MySQL, PostgreSQL)
 
 ### Installation
 
